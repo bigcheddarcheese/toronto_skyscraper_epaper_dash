@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "primal-quanta-380801",
+  "private_key_id": "fecceeb2d3fadcec33fc373a7819bd94da79f911",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpoSf+PBkhTEZY\nM5h6GADtdR5G01eqWhAx5qRWR/ufxgd9zLUrX8Vo40rQHtd3HVg2ujL5SPi/sSfZ\nU0VhQN6A6LlRW8In2y4Ox1WFbvdBykGUwWB2SM12A33h6H+h41iI/hg/NBiMgaqW\nM5qrLIFrrzQMFSi5QdNCeop+HtUTYXn30aHiVedjY4xiWRJkvrSWsI43o9o1zstd\nCAPXgK91VxouGzQwzfWaDegbHq/sjUzk/bVWeA5OFUW+uERtOXEHyTv99M+H7jJH\nvcCrkXvLBVSVWUelSs5PWP0aQBN1pIt/0goAh9QueSiBapZzyfXRjHzPdKIOA/Xb\neGMsNSovAgMBAAECggEAB3cQVQJyaAI80vM2VyKI9pT3Ek6JEaCpYiDQg6bi/nrk\nZ9djSQzhGbFtte9diSBGpRCYX1skQ1S5uGPkmO1AvYiVu0G1WjQC+LiHXXoZhzuD\nm6x6S8pUFx5ROGjB0S85qBG9TG7E/nioYrgpADZ9su5WH+AAgk1QzaCp8/dJu51g\noFwdivKVWJbOXC0EBSN3HceHeE0uqF4Sn1v4YrQlTjfvIVWUG7pGLK2qPGoEV97o\ngRq8Q2zB7PWq7ob2msFk5Piwn/CFqfynsjKAijU268y3rsaEvVvv1g410bMwlqbs\nRTz27ZRgWuqTQVee6ILXZA3HnOHvbpwtgCf6wQIRCQKBgQDo5fZI6NBm5ZNQCXyr\n1PjRFEP7Nj0yP0CLi8HnnIdiMh9OidFFo/cg8xxABlBr7acYPb+PH1NxDHpp43lQ\nCVLTlbIHsD8uz3SN+2naq3ARfdjbv5bJZYhzuJq9QDwT9hv6oreOyPwVmuB7VaJ1\nb8fqeywMQYdBp1oFvDM3gQhVdwKBgQC6dJifhNWrwv0b0Wif8kTSuhBjn1Y1ntM3\nkZwNlZDf0XM76itMvgIUm7cY2Cy2p5S8EjFSASUsxwiAn3mdFvXeV2zop0F5vTmh\nFhefsshkTxHcN7+MRO+egY4MfzK0b4amTMIPpnCatMT3rY+B06uo0pT0ztJZxQGn\nMMmQlyVfCQKBgQDVadRzHxPJFloVH3xkoPWX8XASBLOzFY750IlQyXitnKxfdZ6U\nqBlO0jdy29ZZ8B4L8plUdyopD3wlB9MkakbBqAzJStG6/VMav+VSAYLiJGXRiBCO\nYEHXeLQi83eZ+w3Mb8qwRq/oxFEr8165KkMRNOk6GdntaYLuenScSdrvJQKBgHcq\nH4UL43eEBjnqKyDWOJApJGJXKkTYvgssv3ybE11IQoqPTZ8dbLz5DBsPxfvyvIc6\nZVUQsE6e4ds6kQIJ85dnbo5+nsUMX7GJKg4BuDsLodGJu50NTcuS51MrVB+ni3nr\nYreX2y20zJGy1h3WR0Z9V3/iUuPWmgjdkGUdhF/pAoGANSnCW4f7aQw13yf94qJ2\nhYBK04IA/9jxYZNTTA++92l4baEQkwZw9vrGeQ/0eU54HRfbNntnWSm+XQja5z4u\nytwiy1K+yNbdEwcJ+xA/YZaWcZT3DC2/OPWOkmnV6hjPNxGUvMBRdbDeE0BXhF3q\nmu6hz1EUqyqjg7RhLtWFPs0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin1@primal-quanta-380801.iam.gserviceaccount.com",
+  "client_id": "116944029883296711154",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin1%40primal-quanta-380801.iam.gserviceaccount.com"
+}
